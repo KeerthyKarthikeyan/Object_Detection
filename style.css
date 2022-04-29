@@ -1,0 +1,39 @@
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+box-shadow: 3px 3px 3px grey;
+
+}
+body{
+    font-family: 'Caveat Brush', cursive;
+background-size: cover;
+}
+
+#copyright{
+background:grey;
+color:white;
+line-height:3;
+text-align:center;
+text-shadow: 2px 2px 2px yellow;
+bottom:0;
+position:fixed;
+width:100%;
+
+
+}
+
+canvas{
+box-shadow: 10px 10px 10px grey;
+border-radius:10;
+background-color: white;
+
+}
+
+#status
+{
+font-size: 18px;
+}
+
